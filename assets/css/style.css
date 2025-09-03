@@ -125,8 +125,6 @@ h1 {
       -ms-flex-align: center;
           align-items: center;
   gap: 6px;
-  margin-top: 5px;
-  margin-bottom: 15px;
   cursor: pointer;
   -webkit-user-select: none;
      -moz-user-select: none;

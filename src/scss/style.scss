@@ -1,4 +1,4 @@
-@use "base/common";
+@use 'base/common';
 
 // === Variables ===
 $primary-color: steelblue;
@@ -154,9 +154,6 @@ h1 {
   display: flex;
   align-items: center;
   gap: 6px;
-
-  margin-top: 5px;
-  margin-bottom: 15px;
 
   cursor: pointer;
   user-select: none;
